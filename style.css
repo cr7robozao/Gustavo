@@ -17,17 +17,17 @@
     .cabeçalholista {
     justify-content: center;
     }
-    .sobre-o-colégio {
-    background-image: linear-gradient(#107500, #a2f596);
+    .sobre-a-loja {
+    background-image: linear-gradient(#F2F5F7, #000000);
     color: white;
     font-size: 20px;
     padding: 0px 250px;
     }
-    .sobre-a-escola {
+    .sobre-a-loja {
     padding: 24px 0px;
     }
     .cardápio {
-    background-image: linear-gradient(#a2f596, #107500);
+    background-image: linear-gradient(#F2F5F7, #000000);
     color: white;
     font-size: 20px;
     padding: 0px 250px;
@@ -36,7 +36,7 @@
     padding: 24px 0px;
     }
     .galeria {
-    background-image: linear-gradient(#107500, #107500);
+    background-image: linear-gradient(#F2F5F7, #000000);
     color: white;
     
     font-size: 20px;
